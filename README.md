@@ -10,7 +10,8 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Room Name | Difficulty | Completion Date | Notes |
 |-----------|------------|-----------------|-------|
 | Offensive Security Intro | Easy | 2025-02-09 | What is Offensive Security?, Hacking your first machine, Careers in cyber security. 
-|Defensive Security Intro | Easy | 
+|Defensive Security Intro | Easy | 2025-02-10 | Introduction to Defensive Security, Areas of Defensive Security (SOC), (DFIR), Practical Example of Defensive Security(Simulating a SIEM)
+| Careers in Cyber | Easy | 2025-02-10 | learning paths that you can use to start building your cyber skills, Security Analyst, Security Engineer, Incident Responder, Digital Forensics Examiner, Malware Analyst, Penetration Tester, Red Teamer.
 
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
