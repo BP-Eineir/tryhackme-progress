@@ -25,9 +25,9 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | How Websites Work | Easy | 2025-02-13 | HTML, JavaScript, Sensitive Data Exposure, HTML Injection.
 | Putting it all together | Easy | 2025-02-13 | Putting It All Together Intro, Other Components, How Web Servers Work, Content Quiz
 **Linux Fundamentals**
-| Linux Fundamentals part 1 | Easy | 2025-02-14 |
-| Linux Fundamentals part 2 | Easy | 2025-02-14 |
-| Linux Fundamentals part 3 | Easy | 2025-02-14 |
+| Linux Fundamentals part 1 | Easy | 2025-02-14 | Introduction, A Bit of Background on Linux, Interacting With Your First Linux Machine (In-Browser), Running Your First few Commands, Interacting With the Filesystem!, Searching for Files, An Introduction to Shell Operators, Conclusions & Summaries
+| Linux Fundamentals part 2 | Easy | 2025-02-14 | Introduction, Accessing Your Linux Machine Using SSH (Deploy), Introduction to Flags and Switches, Filesystem Interaction Continued, Permissions 101, Common Directories, Conclusions and Summaries, 
+| Linux Fundamentals part 3 | Easy | 2025-02-14 | Introduction, Deploy Your Linux Machine, Terminal Text Editors, General/Useful Utilities, Processes 101, Maintaining Your System: Automation, Maintaining Your System: Package Management, Maintaining Your System: Logs, Conclusions & Summaries
 **Windows Fundamentals**
 | Linux Fundamentals part 1 | Easy | 2025-02-15 |
 | Linux Fundamentals part 2 | Easy | 2025-02-15 |
