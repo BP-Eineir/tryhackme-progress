@@ -34,7 +34,7 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Linux Fundamentals part 3 | Easy | 2025-02-15 | Introduction, Deploy Your Linux Machine, Terminal Text Editors, General/Useful Utilities, Processes 101, Maintaining Your System: Automation, Maintaining Your System: Package Management, Maintaining Your System: Logs
 **CiberSecurity101**
 **Start Your Cyber Security Journey**
-| Search Skills | Easy | 2025-02-15 |
+| Search Skills | Easy | 2025-02-19 | Introduction, Evaluation of Search Results, Search Engines, Specialized Search Engines, Vulnerabilities and Exploits, Technical Documentation, Social Media, Conclusion
 **Windows and AD Fundamentals**
 | Active Directory Basics | Easy | 2025-02-15 |
 **Comand Line**
