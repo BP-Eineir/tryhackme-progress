@@ -35,7 +35,7 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 **CiberSecurity101**
 **Start Your Cyber Security Journey**
 | Search Skills | Easy | 2025-02-19 | Introduction, Evaluation of Search Results, Search Engines, Specialized Search Engines, Vulnerabilities and Exploits, Technical Documentation, Social Media, Conclusion
-**Windows and AD Fundamentals**
+**AD (Active Directory) Fundamentals**
 | Active Directory Basics | Easy | 2025-02-15 |
 **Comand Line**
 | Windows Comand Line | Easy | 2025-02-15 |
