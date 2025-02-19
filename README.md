@@ -9,7 +9,7 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 ## 🏆 Completed Rooms
 | Room Name | Difficulty | Completion Date | What I learn |
 |-----------|------------|-----------------|--------------|
-**Introduction to Cyber Security**
+**Pre-Security**
 | Offensive Security Intro | Easy | 2025-02-09 | What is Offensive Security?, Hacking your first machine, Careers in cyber security. 
 | Defensive Security Intro | Easy | 2025-02-10 | Introduction to Defensive Security, Areas of Defensive Security (SOC), (DFIR), Practical Example of Defensive Security(Simulating a SIEM)
 | Careers in Cyber | Easy | 2025-02-10 | learning paths that you can use to start building your cyber skills, Security Analyst, Security Engineer, Incident Responder, Digital Forensics Examiner, Malware Analyst, Penetration Tester, Red Teamer.
@@ -32,7 +32,23 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Linux Fundamentals part 1 | Easy | 2025-02-15 | Introduction, A Bit of Background on Linux, Interacting With Your First Linux Machine (In-Browser), Running Your First few Commands, Interacting With the Filesystem!, Searching for Files, An Introduction to Shell Operators, Conclusions & Summaries
 | Linux Fundamentals part 2 | Easy | 2025-02-15 | Introduction, Accessing Your Linux Machine Using SSH (Deploy), Introduction to Flags and Switches, Filesystem Interaction Continued, Permissions 101, Common Directories, Conclusions and Summaries
 | Linux Fundamentals part 3 | Easy | 2025-02-15 | Introduction, Deploy Your Linux Machine, Terminal Text Editors, General/Useful Utilities, Processes 101, Maintaining Your System: Automation, Maintaining Your System: Package Management, Maintaining Your System: Logs
-
+**CiberSecurity101**
+**Start Your Cyber Security Journey**
+| Search Skills | Easy | 2025-02-15 |
+**Windows and AD Fundamentals**
+| Active Directory Basics | Easy | 2025-02-15 |
+**Comand Line**
+| Windows Comand Line | Easy | 2025-02-15 |
+| Windowws PowerShell | Easy | 2025-02-15 |
+| Linux Shells | Easy | 2025-02-15 |
+**Networking**
+| Networking Concepts | Easy | 2025-02-15 |
+| Networking Essentials | Easy | 2025-02-15 |
+| Networking Core Protocols | Easy | 2025-02-15 |
+| Networking Secure Protocols | Easy | 2025-02-15 |
+| Wireshark: The Basics | Easy | 2025-02-15 |
+| Tcpdump: The Basics | Easy | 2025-02-15 |
+| Nmap: The Basics | Easy | 2025-02-15 |
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
 - [ ] Explore **Pentesting Fundamentals**
