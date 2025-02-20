@@ -36,11 +36,11 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 **Start Your Cyber Security Journey**
 | Search Skills | Easy | 2025-02-19 | Introduction, Evaluation of Search Results, Search Engines, Specialized Search Engines, Vulnerabilities and Exploits, Technical Documentation, Social Media, Conclusion
 **AD (Active Directory) Fundamentals**
-| Active Directory Basics | Easy | 2025-02-15 |
+| Active Directory Basics | Easy | 2025-02-20 | Introduction, Windows Domains, Active Directory, Managing Users in AD, Managing Computers in AD, Group Policies, Authentication Methods, Trees, Forests and Trusts, Conclusion
 **Comand Line**
-| Windows Comand Line | Easy | 2025-02-15 |
-| Windowws PowerShell | Easy | 2025-02-15 |
-| Linux Shells | Easy | 2025-02-15 |
+| Windows Comand Line | Easy | 2025-02-20 | Introduction, Basic System Information, Network Troubleshooting, File and Disk Management, Task and Process Management, Conclusion
+| Windowws PowerShell | Easy | 2025-02-20 | Introduction, What Is PowerShell, PowerShell Basics, Navigating the File System and Working with Files, Piping, Filtering, and Sorting Data, System and Network Information, Real-Time System Analysis, Scripting, Conclusion
+| Linux Shells | Easy | 2025-02-20 | Introduction to Linux Shells, How To Interact With a Shell?, Types of Linux Shells, Shell Scripting and Components, The Locker Script, Practical Exercise, Conclusion
 **Networking**
 | Networking Concepts | Easy | 2025-02-15 |
 | Networking Essentials | Easy | 2025-02-15 |
