@@ -42,13 +42,13 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Windowws PowerShell | Easy | 2025-02-20 | Introduction, What Is PowerShell, PowerShell Basics, Navigating the File System and Working with Files, Piping, Filtering, and Sorting Data, System and Network Information, Real-Time System Analysis, Scripting, Conclusion
 | Linux Shells | Easy | 2025-02-20 | Introduction to Linux Shells, How To Interact With a Shell?, Types of Linux Shells, Shell Scripting and Components, The Locker Script, Practical Exercise, Conclusion
 **Networking**
-| Networking Concepts | Easy | 2025-02-15 |
-| Networking Essentials | Easy | 2025-02-15 |
-| Networking Core Protocols | Easy | 2025-02-15 |
-| Networking Secure Protocols | Easy | 2025-02-15 |
-| Wireshark: The Basics | Easy | 2025-02-15 |
-| Tcpdump: The Basics | Easy | 2025-02-15 |
-| Nmap: The Basics | Easy | 2025-02-15 |
+| Networking Concepts | Easy | 2025-02-21 |
+| Networking Essentials | Easy | 2025-02-21 |
+| Networking Core Protocols | Easy | 2025-02-21 |
+| Networking Secure Protocols | Easy | 2025-02-22 |
+| Wireshark: The Basics | Easy | 2025-02-22 |
+| Tcpdump: The Basics | Easy | 2025-02-22 |
+| Nmap: The Basics | Easy | 2025-02-22 |
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
 - [ ] Explore **Pentesting Fundamentals**
