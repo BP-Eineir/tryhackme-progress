@@ -42,10 +42,10 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Windowws PowerShell | Easy | 2025-02-20 | Introduction, What Is PowerShell, PowerShell Basics, Navigating the File System and Working with Files, Piping, Filtering, and Sorting Data, System and Network Information, Real-Time System Analysis, Scripting, Conclusion
 | Linux Shells | Easy | 2025-02-20 | Introduction to Linux Shells, How To Interact With a Shell?, Types of Linux Shells, Shell Scripting and Components, The Locker Script, Practical Exercise, Conclusion
 **Networking**
-| Networking Concepts | Easy | 2025-02-21 |
-| Networking Essentials | Easy | 2025-02-21 |
-| Networking Core Protocols | Easy | 2025-02-21 |
-| Networking Secure Protocols | Easy | 2025-02-22 |
+| Networking Concepts | Easy | 2025-02-25 | Introduction, OSI Model, TCP/IP Model, IP Addresses and Subnets, IP Addresses and Subnets, UDP and TCP, Encapsulation, Telnet, Conclusion.
+| Networking Essentials | Easy | 2025-02-25 | Introduction, DHCP: Give Me My Network Settings, ARP: Bridging Layer 3 Addressing to Layer 2 Addressing, ICMP: Troubleshooting Networks, Routing, NAT, Closing Notes.
+| Networking Core Protocols | Easy | 2025-02-25 | Introduction, DNS: Remembering Addresses, WHOIS, HTTP(S): Accessing the Web, FTP: Transferring Files, SMTP: Sending Email, POP3: Receiving Email, IMAP: Synchronizing Email, Conclusion.
+| Networking Secure Protocols | Easy | 2025-02-25 | Introduction, TLS, HTTPS, SMTPS, POP3S, and IMAPS, SSH, SFTP and FTPS, VPN, Closing Notes.
 | Wireshark: The Basics | Easy | 2025-02-22 |
 | Tcpdump: The Basics | Easy | 2025-02-22 |
 | Nmap: The Basics | Easy | 2025-02-22 |
