@@ -46,9 +46,14 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Networking Essentials | Easy | 2025-02-25 | Introduction, DHCP: Give Me My Network Settings, ARP: Bridging Layer 3 Addressing to Layer 2 Addressing, ICMP: Troubleshooting Networks, Routing, NAT, Closing Notes.
 | Networking Core Protocols | Easy | 2025-02-25 | Introduction, DNS: Remembering Addresses, WHOIS, HTTP(S): Accessing the Web, FTP: Transferring Files, SMTP: Sending Email, POP3: Receiving Email, IMAP: Synchronizing Email, Conclusion.
 | Networking Secure Protocols | Easy | 2025-02-25 | Introduction, TLS, HTTPS, SMTPS, POP3S, and IMAPS, SSH, SFTP and FTPS, VPN, Closing Notes.
-| Wireshark: The Basics | Easy | 2025-02-22 |
-| Tcpdump: The Basics | Easy | 2025-02-22 |
-| Nmap: The Basics | Easy | 2025-02-22 |
+| Wireshark: The Basics | Easy | 2025-02-26 | Introduction, Tool Overview, Packet Dissection, Packet Navigation, Packet Filtering, Conclusion.
+| Tcpdump: The Basics | Easy | 2025-02-26 | Introduction, Basic Packet Capture, Filtering Expressions, Advanced Filtering, Displaying Packets, Conclusion.
+| Nmap: The Basics | Easy | 2025-02-26 | Introduction, Host Discovery: Who Is Online, Port Scanning: Who Is Listening, Version Detection: Extract More Information, Timing: How Fast is Fast, Output: Controlling What You See, Conclusion and Summary.
+**Cryptography**
+| Cryptography Basics | Easy | 2025-02-27 | Introduction, Importance of Cryptography, Plaintext to Ciphertext, Historical Ciphers, Types of Encryption, Basic Math, Summary.
+| Public Key Cryptography Basics | Easy | 2025-02-27 | Introduction, Common Use of Asymmetric Encryption, RSA, Diffie-Hellman Key Exchange, SSH, Digital Signatures and Certificates, PGP and GPG, Conclusion.
+| Hashing Basics | Easy | 2025-02-28 |
+| John the Ripper: The Basics | Easy | 2025-02-28 |
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
 - [ ] Explore **Pentesting Fundamentals**
