@@ -52,8 +52,8 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 **Cryptography**
 | Cryptography Basics | Easy | 2025-02-27 | Introduction, Importance of Cryptography, Plaintext to Ciphertext, Historical Ciphers, Types of Encryption, Basic Math, Summary.
 | Public Key Cryptography Basics | Easy | 2025-02-27 | Introduction, Common Use of Asymmetric Encryption, RSA, Diffie-Hellman Key Exchange, SSH, Digital Signatures and Certificates, PGP and GPG, Conclusion.
-| Hashing Basics | Easy | 2025-02-28 |
-| John the Ripper: The Basics | Easy | 2025-02-28 |
+| Hashing Basics | Easy | 2025-03-03 | Introduction, Hash Functions, Insecure Password Storage for Authentication, Using Hashing for Secure Password Storage, Recognising Password Hashes, Password Cracking, Hashing for Integrity Checking, Conclusion.
+| John the Ripper: The Basics | Easy | 2025-03-03 | Introduction, Basic Terms, Setting Up Your System, Cracking Basic Hashes, Cracking Windows Authentication Hashes, Cracking /etc/shadow Hashes, Single Crack Mode, Custom Rules, Cracking Password Protected Zip Files, Cracking Password-Protected RAR Archives, Cracking SSH Keys with John, Further Reading.
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
 - [ ] Explore **Pentesting Fundamentals**
