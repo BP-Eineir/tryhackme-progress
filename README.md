@@ -54,6 +54,12 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Public Key Cryptography Basics | Easy | 2025-02-27 | Introduction, Common Use of Asymmetric Encryption, RSA, Diffie-Hellman Key Exchange, SSH, Digital Signatures and Certificates, PGP and GPG, Conclusion.
 | Hashing Basics | Easy | 2025-03-03 | Introduction, Hash Functions, Insecure Password Storage for Authentication, Using Hashing for Secure Password Storage, Recognising Password Hashes, Password Cracking, Hashing for Integrity Checking, Conclusion.
 | John the Ripper: The Basics | Easy | 2025-03-03 | Introduction, Basic Terms, Setting Up Your System, Cracking Basic Hashes, Cracking Windows Authentication Hashes, Cracking /etc/shadow Hashes, Single Crack Mode, Custom Rules, Cracking Password Protected Zip Files, Cracking Password-Protected RAR Archives, Cracking SSH Keys with John, Further Reading.
+**Explotation Basics**
+| Moniker Link (CVE-2024-21413) | Easy | 2025-03-11 | Introduction, Moniker Link (CVE-2024-21413), Exploitation, Detection, Remediation, Conclusion.
+| Metasploit: Introduction | Easy | 2025-03-12 | Introduction to Metasploit, Main Components of Metasploit, Msfconsole, Working with modules, Summary.
+| Metasploit: Exploitation| Easy | 2025-03-12 | Introduction, Scanning, The Metasploit Database, Vulnerability Scanning, Exploitation, Msfvenom, Summary.
+| Metasploit: Meterpreter| Easy | 2025-03-12 | Introduction to Meterpreter, Meterpreter Flavors, Meterpreter Commands, Post-Exploitation with Meterpreter, Post-Exploitation Challenge.
+| Blue | Easy | 2025-03-13 | 
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
 - [ ] Explore **Pentesting Fundamentals**
