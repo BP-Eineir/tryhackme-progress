@@ -3,8 +3,10 @@
 ## About This Repository
 This repository is dedicated to tracking my progress in **TryHackMe**, a hands-on cybersecurity learning platform. Here, I will document my journey, challenges, solutions, and key takeaways from different rooms and pathways I complete.
 
-## 📌 Current Learning Path
-I am currently following the **Pre Security** and **Cyber Security Foundations** paths to build a strong foundation in cybersecurity before moving to more advanced topics.
+## 📌 Current Learning Path  
+I am currently completing the **Cybersecurity 101** path on TryHackMe with a primary focus on **Defensive Security (Blue Team)**.  
+My next goal is to expand my knowledge in **network defense, log analysis, and security monitoring**.  
+In the future, I plan to explore **Offensive Security (Red Team) topics** to develop a well-rounded cybersecurity skill set.
 
 ## 🏆 Completed Rooms
 | Room Name | Difficulty | Completion Date | What I learn |
@@ -67,17 +69,26 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Burp Suite: The Basics | Easy | 2025-03-14 | 
 | OWASP Top 10-2021 | Easy | 2025-03-14 | 
 **Offensive Security Tooling**
-## 🔜 Upcoming Challenges
-- [ ] Continue with **Cyber Security 101**
-- [ ] Explore **Pentesting Fundamentals**
-- [ ] Start hands-on labs with **CTF challenges**
 
-## 🛠 Tools & Skills Practiced
-- **Networking Basics** 🌐
-- **Linux Fundamentals** 🐧
-- **Command Line Skills** 🖥️
-- **Cryptography & Hashing** 🔐
-- **Basic Scripting with Python** 🐍 *(Coming soon!)*
+## 🎯 Next Steps & Goals  
+- 🔜 **Complete Cybersecurity 101** (currently in progress).  
+- 🏆 Explore **Threat Hunting, SIEM, and Log Analysis** in defensive security.  
+- 📊 Continue learning about **Active Directory Security & Network Defense**.  
+- 🔜 Expand into **Pentesting & Red Team techniques** in the future.  
+
+## 🛠️ Tools and Skills Practiced  
+
+### 🔹 **Blue Team - Defensive Security**  
+- 🛡️ **SIEM & Log Analysis:** Basic Windows Event Logs, Linux Logs (`journalctl`, `wevtutil`).  
+- 📡 **Network Security & Monitoring:** Wireshark, TCPDump, Netstat.  
+- 🔍 **Threat Hunting & Forensics:** Identifying anomalies, process monitoring, system logs analysis.  
+- 🏛️ **Active Directory Security:** Understanding AD structure, authentication mechanisms, and security best practices.  
+- 🔐 **Windows & Linux Security:** User privilege management, firewall configuration, system hardening.
+
+### 🔹 **Red Team - Offensive Security (Future Learning)**  
+- 🔑 **Password Cracking:** John The Ripper, Hashcat (Basic).  
+- 📜 **Web Hacking:** SQL Injection Fundamentals, basic enumeration techniques.  
+- 💉 **Basic Exploitation:** Understanding common vulnerabilities and attack vectors. 
 
 ## 📂 Notes & Writeups
 I will also share writeups for non-flagged rooms whenever possible, ensuring that I follow the **rules of engagement** for ethical hacking platforms.
