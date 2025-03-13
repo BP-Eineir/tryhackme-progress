@@ -1,8 +1,13 @@
 # TryHackMe Progress
 
-## About This Repository
-This repository is dedicated to tracking my progress in **TryHackMe**, a hands-on cybersecurity learning platform. Here, I will document my journey, challenges, solutions, and key takeaways from different rooms and pathways I complete.
+## 📌 About This Repository  
+This repository is dedicated to tracking my progress on **TryHackMe**, a hands-on cybersecurity learning platform.  
 
+Here, I log:  
+- 🔹 **Rooms I have completed** along with key takeaways.  
+- 🔹 **Skills and tools I have learned** throughout my journey.  
+- 🔹 **Future learning goals** as I continue improving my cybersecurity knowledge.
+  
 ## 📌 Current Learning Path  
 I am currently completing the **Cybersecurity 101** path on TryHackMe with a primary focus on **Defensive Security (Blue Team)**.  
 My next goal is to expand my knowledge in **network defense, log analysis, and security monitoring**.  
