@@ -59,7 +59,14 @@ I am currently following the **Pre Security** and **Cyber Security Foundations**
 | Metasploit: Introduction | Easy | 2025-03-12 | Introduction to Metasploit, Main Components of Metasploit, Msfconsole, Working with modules, Summary.
 | Metasploit: Exploitation| Easy | 2025-03-12 | Introduction, Scanning, The Metasploit Database, Vulnerability Scanning, Exploitation, Msfvenom, Summary.
 | Metasploit: Meterpreter| Easy | 2025-03-12 | Introduction to Meterpreter, Meterpreter Flavors, Meterpreter Commands, Post-Exploitation with Meterpreter, Post-Exploitation Challenge.
-| Blue | Easy | 2025-03-13 | 
+| Blue | Easy | 2025-03-13 | Recon, Gain Access, Escalate, Cracking, Find flags!.
+**Web Hacking**
+| Web Aplication Basics | Easy | 2025-03-13 | Introduction, Web Application Overview, Uniform Resource Locator, HTTP Messages, HTTP Request: Request Line and Methods, HTTP Request: Headers and Body, HTTP Response: Status Line and Status Codes, HTTP Response: Headers and Body, Security Headers, Practical Task: Making HTTP Requests, Conclusion.
+| JavaScript Essentials | Easy | 2025-03-13 | Introduction, Essential Concepts, JavaScript Overview, Integrating JavaScript in HTML, Abusing Dialogue Functions, Bypassing Control Flow Statements, Exploring Minified Files, Best Practices, Conclusion.
+| SQL Fundamentals | Easy | 2025-03-14 | 
+| Burp Suite: The Basics | Easy | 2025-03-14 | 
+| OWASP Top 10-2021 | Easy | 2025-03-14 | 
+**Offensive Security Tooling**
 ## 🔜 Upcoming Challenges
 - [ ] Continue with **Cyber Security 101**
 - [ ] Explore **Pentesting Fundamentals**
