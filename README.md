@@ -70,11 +70,32 @@ In the future, I plan to explore **Offensive Security (Red Team) topics** to dev
 **Web Hacking**
 | Web Aplication Basics | Easy | 2025-03-13 | Introduction, Web Application Overview, Uniform Resource Locator, HTTP Messages, HTTP Request: Request Line and Methods, HTTP Request: Headers and Body, HTTP Response: Status Line and Status Codes, HTTP Response: Headers and Body, Security Headers, Practical Task: Making HTTP Requests, Conclusion.
 | JavaScript Essentials | Easy | 2025-03-13 | Introduction, Essential Concepts, JavaScript Overview, Integrating JavaScript in HTML, Abusing Dialogue Functions, Bypassing Control Flow Statements, Exploring Minified Files, Best Practices, Conclusion.
-| SQL Fundamentals | Easy | 2025-03-14 | 
-| Burp Suite: The Basics | Easy | 2025-03-14 | 
-| OWASP Top 10-2021 | Easy | 2025-03-14 | 
+| SQL Fundamentals | Easy | 2025-03-14 | Introduction, Databases 101, SQL, Database and Table Statements, CRUD Operations, Clauses, Operators, Functions, Conclusion.
+| Burp Suite: The Basics | Easy | 2025-03-17 | Introduction, What is Burp Suite, Features of Burp Community, Installation, The Dashboard, Navigation, Options, Introduction to the Burp Proxy, Connecting through the Proxy (FoxyProxy), Site Map and Issue Definitions, The Burp Suite Browser, Scoping and Targeting, Proxying HTTPS, Example Attack, Conclusion.
+| OWASP Top 10-2021 | Easy | 2025-03-18 | 
 **Offensive Security Tooling**
-
+| Hydra | Easy | 2025-03-18 |
+| Gobuster: The Basics | Easy | 2025-03-18 |
+| Shells Overview | Easy | 2025-03-18 |
+| SQLMap: The Basics | Easy | 2025-03-18 |
+**Defensive Security**
+| SOC Fundamentals | Easy | 2025-03-18 |
+| Digital Forensics Fundamentals | Easy | 2025-03-18 |
+| Incident Response Fundamentals | Easy | 2025-03-18 |
+| Log Fundamentals | Easy | 2025-03-18 |
+**Security Solutions**
+| Introduction to SIEM | Easy | 2025-03-18 |
+| Firewall Fundamentals | Easy | 2025-03-18 |
+| IDS Fundamentals | Easy | 2025-03-18 |
+| Vulnerability Scanner Overview | Easy | 2025-03-18 |
+**Defensive Security Tooling**
+| CyberChef: The Basics | Easy | 2025-03-18 |
+| CAPA: The Basics | Easy | 2025-03-18 |
+| REMnux: Getting Started | Easy | 2025-03-18 |
+| FlareVM: Arsenal of Tools | Easy | 2025-03-18 |
+**Build Your Ciber Security Career**
+| Security Principles | Easy | 2025-03-18 |
+| Training Impact on Teams | Easy | 2025-03-18 |
 ## 🎯 Next Steps & Goals  
 - 🔜 **Complete Cybersecurity 101** (currently in progress).  
 - 🏆 Explore **Threat Hunting, SIEM, and Log Analysis** in defensive security.  
