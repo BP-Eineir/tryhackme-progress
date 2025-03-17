@@ -111,7 +111,7 @@ In the future, I plan to explore **Offensive Security (Red Team) topics** to dev
 - 🏛️ **Active Directory Security:** Understanding AD structure, authentication mechanisms, and security best practices.  
 - 🔐 **Windows & Linux Security:** User privilege management, firewall configuration, system hardening.
 
-### 🔹 **Red Team - Offensive Security (Future Learning)**  
+### 🔹 **Red Team - Offensive Security**  
 - 🔑 **Password Cracking:** John The Ripper, Hashcat (Basic).  
 - 📜 **Web Hacking:** SQL Injection Fundamentals, basic enumeration techniques.  
 - 💉 **Basic Exploitation:** Understanding common vulnerabilities and attack vectors. 
