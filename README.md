@@ -72,12 +72,13 @@ In the future, I plan to explore **Offensive Security (Red Team) topics** to dev
 | JavaScript Essentials | Easy | 2025-03-13 | Introduction, Essential Concepts, JavaScript Overview, Integrating JavaScript in HTML, Abusing Dialogue Functions, Bypassing Control Flow Statements, Exploring Minified Files, Best Practices, Conclusion.
 | SQL Fundamentals | Easy | 2025-03-14 | Introduction, Databases 101, SQL, Database and Table Statements, CRUD Operations, Clauses, Operators, Functions, Conclusion.
 | Burp Suite: The Basics | Easy | 2025-03-17 | Introduction, What is Burp Suite, Features of Burp Community, Installation, The Dashboard, Navigation, Options, Introduction to the Burp Proxy, Connecting through the Proxy (FoxyProxy), Site Map and Issue Definitions, The Burp Suite Browser, Scoping and Targeting, Proxying HTTPS, Example Attack, Conclusion.
-| OWASP Top 10-2021 | Easy | 2025-03-18 | 
+| OWASP Top 10-2021 | Easy | 2025-03-18 | Introduction, Accessing Machines, 1. Broken Access Control, Broken Access Control (IDOR Challenge), 2. Cryptographic Failures, Cryptographic Failures (Supporting Material 1), Cryptographic Failures (Supporting Material 2), Cryptographic Failures (Challenge), 3. Injection, 3.1. Command Injection, 4. Insecure Design, 5. Security Misconfiguration, 6. Vulnerable and Outdated Components, Vulnerable and Outdated Components - Exploit, Vulnerable and Outdated Components - Lab, 
+7. Identification and Authentication Failures, Identification and Authentication Failures Practical, 8. Software and Data Integrity Failures, Software Integrity Failures, Data Integrity Failures, 9. Security Logging and Monitoring Failures, 10. Server-Side Request Forgery (SSRF), What Next?.
 **Offensive Security Tooling**
-| Hydra | Easy | 2025-03-18 |
-| Gobuster: The Basics | Easy | 2025-03-18 |
-| Shells Overview | Easy | 2025-03-18 |
-| SQLMap: The Basics | Easy | 2025-03-18 |
+| Hydra | Easy | 2025-03-18 | Hydra Introduction, Using Hydra.
+| Gobuster: The Basics | Easy | 2025-03-19 |
+| Shells Overview | Easy | 2025-03-19 |
+| SQLMap: The Basics | Easy | 2025-03-19 |
 **Defensive Security**
 | SOC Fundamentals | Easy | 2025-03-18 |
 | Digital Forensics Fundamentals | Easy | 2025-03-18 |
