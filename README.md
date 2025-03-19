@@ -76,9 +76,9 @@ In the future, I plan to explore **Offensive Security (Red Team) topics** to dev
 7. Identification and Authentication Failures, Identification and Authentication Failures Practical, 8. Software and Data Integrity Failures, Software Integrity Failures, Data Integrity Failures, 9. Security Logging and Monitoring Failures, 10. Server-Side Request Forgery (SSRF), What Next?.
 **Offensive Security Tooling**
 | Hydra | Easy | 2025-03-18 | Hydra Introduction, Using Hydra.
-| Gobuster: The Basics | Easy | 2025-03-19 |
-| Shells Overview | Easy | 2025-03-19 |
-| SQLMap: The Basics | Easy | 2025-03-19 |
+| Gobuster: The Basics | Easy | 2025-03-19 | Introduction, Environment and Setup, Gobuster: Introduction, Use Case: Directory and File Enumeration, Use Case: Subdomain Enumeration, Use Case: Vhost Enumeration, Conclusion.
+| Shells Overview | Easy | 2025-03-19 | Room Introduction, Shell Overview, Reverse Shell, Bind Shell, Shell Listeners, Shell Payloads, Web Shell, Practical Task, Conclusion.
+| SQLMap: The Basics | Easy | 2025-03-19 | Introduction, SQL Injection Vulnerability, Automated SQL Injection Tool, Practical Exercise.
 **Defensive Security**
 | SOC Fundamentals | Easy | 2025-03-18 |
 | Digital Forensics Fundamentals | Easy | 2025-03-18 |
