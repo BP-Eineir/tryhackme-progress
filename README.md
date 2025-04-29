@@ -80,20 +80,20 @@ In the future, I plan to explore **Offensive Security (Red Team) topics** to dev
 | Shells Overview | Easy | 2025-03-19 | Room Introduction, Shell Overview, Reverse Shell, Bind Shell, Shell Listeners, Shell Payloads, Web Shell, Practical Task, Conclusion.
 | SQLMap: The Basics | Easy | 2025-03-19 | Introduction, SQL Injection Vulnerability, Automated SQL Injection Tool, Practical Exercise.
 **Defensive Security**
-| SOC Fundamentals | Easy | 2025-03-18 |
-| Digital Forensics Fundamentals | Easy | 2025-03-18 |
-| Incident Response Fundamentals | Easy | 2025-03-18 |
-| Log Fundamentals | Easy | 2025-03-18 |
+| SOC Fundamentals | Easy | 2025-03-21 |
+| Digital Forensics Fundamentals | Easy | 2025-03-23 |
+| Incident Response Fundamentals | Easy | 2025-03-23 |
+| Log Fundamentals | Easy | 2025-03-25 |
 **Security Solutions**
-| Introduction to SIEM | Easy | 2025-03-18 |
-| Firewall Fundamentals | Easy | 2025-03-18 |
-| IDS Fundamentals | Easy | 2025-03-18 |
-| Vulnerability Scanner Overview | Easy | 2025-03-18 |
+| Introduction to SIEM | Easy | 2025-03-28 |
+| Firewall Fundamentals | Easy | 2025-03-28 |
+| IDS Fundamentals | Easy | 2025-03-28 |
+| Vulnerability Scanner Overview | Easy | 2025-03-28 |
 **Defensive Security Tooling**
-| CyberChef: The Basics | Easy | 2025-03-18 |
-| CAPA: The Basics | Easy | 2025-03-18 |
-| REMnux: Getting Started | Easy | 2025-03-18 |
-| FlareVM: Arsenal of Tools | Easy | 2025-03-18 |
+| CyberChef: The Basics | Easy | 2025-03-29 |
+| CAPA: The Basics | Easy | 2025-03-29 |
+| REMnux: Getting Started | Easy | 2025-03-30 |
+| FlareVM: Arsenal of Tools | Easy | 2025-03-30 |
 **Build Your Ciber Security Career**
 | Security Principles | Easy | 2025-03-18 |
 | Training Impact on Teams | Easy | 2025-03-18 |
