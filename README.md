@@ -94,8 +94,8 @@ In the future, I plan to explore **Offensive Security (Red Team) topics** to dev
 | REMnux: Getting Started | Easy | 2025-04-01 |
 | FlareVM: Arsenal of Tools | Easy | 2025-04-01 |
 **Build Your Ciber Security Career**
-| Security Principles | Easy | 2025-04-02 |
-| Training Impact on Teams | Easy | 2025-04-02 |
+| Security Principles | Easy | 2025-04-01 |
+| Training Impact on Teams | Easy | 2025-04-01 |
 ## 🎯 Next Steps & Goals  
 - 🔜 **Complete Cybersecurity 101** (currently in progress).  
 - 🏆 Explore **Threat Hunting, SIEM, and Log Analysis** in defensive security.  
